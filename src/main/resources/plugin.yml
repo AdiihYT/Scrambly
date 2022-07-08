@@ -1,0 +1,7 @@
+name: Scrambly
+main: eu.adiih.scrambly.ScramblyPlugin
+version: 220708-b7
+api-version: 1.13
+author: AdiihYT
+website: adiih.eu
+description: Reaction chat game with different topics and scrambled words

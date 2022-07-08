@@ -1,0 +1,32 @@
+interval: 30 # in seconds
+event-time: 20 # in seconds
+needed-players: 1
+reward-commands:
+  - 'eco give %player% 50'
+messages:
+  announcement: '&eHover here &fto unscramble the word &7&o(Topic: %topic%)'
+  unscrambled: '&e%player% &funscrambled the word in &e%seconds% &fseconds.'
+  timed-out: '&fNo one was able to unscramble the word: &e%word%'
+topics:
+  countries:
+    display: 'Countries'
+    words:
+      - 'Hungary'
+      - 'Germany'
+      - 'Brazil'
+      - 'Spain'
+      - 'Switzerland'
+  cities:
+    display: 'Cities'
+    words:
+      - 'Paris'
+      - 'London'
+      - 'Lisbon'
+      - 'Kyiv'
+      - 'Moscow'
+      - 'Prague'
+      - 'Rome'
+      - 'Copenhagen'
+      - 'Bucharest'
+      - 'Budapest'
+      - 'Berlin'
